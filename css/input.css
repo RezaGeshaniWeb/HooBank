@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .row {
+        @apply flex flex-wrap w-full;
+    }
+
+    .center {
+        @apply justify-center items-center;
+    }
+
+    .gradient-text {
+        @apply bg-gradient-to-r from-[#1f9caa] to-[#baeff3] bg-clip-text text-transparent;
+    }
+    
+    .gradient-bg {
+        @apply bg-gradient-to-r from-[#1f9caa] to-[#baeff3];
+
+    }
+
+    .gradient-gray {
+        @apply bg-gradient-to-r from-[#5050509d] to-[#22202098];
+    }
+}
