@@ -4,8 +4,8 @@
 
 - Developed by Reza Geshani
 
-- Created - 2024-12-11 &#x1F5A4; &#x2764;
-
+- Created - 2024-12-11 &#x1F5A4; &#10084;
+  
 - Technologies Used - Html , TailwindCSS
 
 - Role - Frontend
