@@ -4,7 +4,7 @@
 
 - Developed by Reza Geshani
 
-- Created - 2024-12-11 &#x1F5A4; &#10084;
+- Created - 2024-12-11 &#x1F5A4; &hearts;
   
 - Technologies Used - Html , TailwindCSS
 
